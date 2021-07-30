@@ -6,7 +6,7 @@ NLP (natural language processing) ou processamento de linguagem natural (PLN em 
 
 O objetivo do NLP é fornecer aos computadores a capacidade de entender um texto, ou seja, reconhecer o contexto, fazer análise sintática, semântica, léxica e morfológica, criar resumos, extrair informação, interpretar os sentidos, analisar sentimentos e até aprender conceitos com os textos processados.
 
-Os projetos aqui presentes são:
+Projetos exitentes nesse repositório:
 
 <a href="https://github.com/MichelinJV/N_L_P/blob/master/Fake_News_ElectionBR_2018.ipynb">Fake_News_ElectionBR_2018: </a>
 Projeto onde foi desenvolvido modelos que possam separar fake news e notícias verdadeiras das eleições brasileiras de 2018.
